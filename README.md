@@ -2,4 +2,4 @@
 Run as a joke on a friends computer.
 
 ## Dependencies
-* Python
+* Python 3
